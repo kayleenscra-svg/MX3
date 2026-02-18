@@ -15,7 +15,7 @@ pip install colorama
 pip install bs4
 pip install pyfiglet
 ثالثاً: أوامر تحميل وتشغيل Team XSX v3.0قم بنسخ الأوامر التالية بالترتيب:# تحميل الأداة من المستودع الخاص بـ Team XSX
-git clone [https://github.com/TeamXSX/v3.0-Global](https://github.com/TeamXSX/v3.0-Global)
+git clone [https://github.com/kayleenscra-svg/MX3.git](https://github.com/kayleenscra-svg/MX3.git)
 
 # الدخول إلى مجلد الأداة
 cd v3.0-Global
@@ -23,4 +23,5 @@ cd v3.0-Global
 # تفعيل ملف التشغيل الرئيسي
 chmod +x *
 python main.py
+
 رابعاً: نصائح التشغيل الفعال (النسخة المدفوعة)استخدام VPN: يفضل تشغيل VPN قوي أو استخدام "Proxy" داخل الأداة لضمان عدم حظر IP الجهاز.تحديث الـ User-Agent: تأكد من اختيار خيار "Auto Update User-Agent" داخل واجهة الأداة لتبدو العمليات كأنها من متصفحات حقيقية.سرعة التنفيذ: لا تقم بضبط "Delay" (التأخير) على أقل من 1.5 ثانية لتجنب كشف الروبوتات.ملاحظة: تم تصميم هذه الأوامر لتعمل بأقصى طاقة استيعابية للمعالج لضمان الرد السريع والفعالية التي يشتهر بها فريق XSX.
